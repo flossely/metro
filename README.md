@@ -1,2 +1,2 @@
-# linux-back
-Linux backgrounds.
+# Basic Linux Backgrounds
+Basic Linux backgrounds.
