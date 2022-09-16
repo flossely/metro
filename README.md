@@ -1,2 +1,2 @@
-# Basic Linux Backgrounds
-Basic Linux backgrounds.
+# Metro Backgrounds
+Basic system backgrounds.
