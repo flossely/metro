@@ -1,2 +1,2 @@
-# Metro Backgrounds
-Basic system backgrounds.
+# Metro Wallpapers
+A collection of basic system wallpapers.
